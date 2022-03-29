@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975260050299",
+    "project_id": "widrunning",
+    "storage_bucket": "widrunning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975260050299:android:4205f7b93ee434338413de",
+        "android_client_info": {
+          "package_name": "com.example.wildrunning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975260050299-6lhfa3ko69l1v5frk17cj4farni31aad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClsiF5oEnyPCGV4PCZBX5zrpn404p-SN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975260050299-6lhfa3ko69l1v5frk17cj4farni31aad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
