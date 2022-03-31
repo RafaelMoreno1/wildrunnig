@@ -63,8 +63,7 @@ class LoginActivity : AppCompatActivity() {
         useremail = email
         providerSession = provider
 
-
-        val intent = Intent(packageContext: this, MainActivity::class.java)
+        val intent = Intent( this, MainActivity::class.java)
         startActivity(intent)
     }
 }
